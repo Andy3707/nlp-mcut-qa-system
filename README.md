@@ -24,10 +24,6 @@
 - [x] 成功使用 Git 完成 `commit` 並 `push` 同步至 GitHub 雲端。
 
 
-### 8. README.md 更新
-
-請將以下「Week 4 任務清單」複製貼上，並將您本週已完成的項目打勾（`[x]`）：
-
 ### Week 4 / 8: Data Ingestion & Topology-Aware Chunking
 - [x] **環境建置與版控防護**：更新 `.gitignore` 成功阻擋原始 PDF 與暫存 JSON，並保留 `.keep` 目錄結構。
 - [x] **資料擷取與合併**：任務 1-A 頁首頁尾清除、1-B 雙語標題合併、1-C 雙語條文合併 (完成者分別打勾)。
