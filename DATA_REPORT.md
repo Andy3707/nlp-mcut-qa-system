@@ -63,9 +63,7 @@ ___
 
 ![dashboard](reports/figures/dashboard.png)
 
-你的 Cleaned 結果與參考值一致嗎？若一致，寫「一致」；若不一致，找出原因。（1 句）
-
-___
+Cleaned 結果與參考值不一致，主要原因是 Task 1-B 的標題合併規則過於寬鬆，破壞 Markdown 標題結構，導致 Chunk 數量大幅減少、中位數長度異常增加，進而影響資訊熵。
 
 ### 3.2 AI 的解讀
 
